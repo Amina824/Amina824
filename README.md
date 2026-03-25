@@ -1,42 +1,87 @@
-# Hi, I'm Amina Bibi 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Generative+AI+Enthusiast;Building+Intelligent+Systems&center=true&width=500&height=50">
+</p>
 
-🎓 Software Engineering student at the University of Gujrat  
-🤖 Interested in Generative AI, AI Agents, and Machine Learning  
-💻 Skilled in Python, C++, and Java  
-🔗 Currently exploring LangChain, MCP, and LLM-based applications  
+<h1 align="center">Hi 👋, I'm Amina Bibi</h1>
+<h3 align="center">💻 Software Engineering Student | 🤖 Generative AI Enthusiast</h3>
 
-## About Me
-I am a Software Engineering student with strong problem-solving skills and a solid foundation in programming. I enjoy building intelligent systems and working on projects related to machine learning, data structures, and databases. I am passionate about learning emerging AI technologies and creating useful real-world solutions.
+---
 
-## Skills
-- **Languages:** Python, C++, Java
-- **Core Concepts:** OOP, Data Structures & Algorithms, DBMS, Simulation and Modeling
-- **AI:** Machine Learning, Generative AI, Agentic AI
-- **Tools & Frameworks:** LangChain, MCP, Git, GitHub
+## 🚀 About Me
+- 🎓 Software Engineering student at **University of Gujrat**
+- 🤖 Passionate about **Generative AI, AI Agents & Machine Learning**
+- 💡 Love building **intelligent systems & real-world solutions**
+- 🔍 Currently exploring **LangChain, MCP & LLM-based applications**
 
-## Projects
-### Society Registration System Simulation & Research
-- Researched inefficiencies in a university manual registration system
-- Analysed data from 1000+ students
-- Designed digital and AI-based solutions using AnyLogic
-- Reduced registration time from 20 minutes to 1 minute in simulation
+---
 
-### Bank Management System
-- Built a console-based banking system in C++
-- Used OOP concepts, modular design, and file handling
-- Added CRUD operations and record management
+## 🛠️ Tech Stack
 
-### Pet Management System
-- Developed a C++ application for pet and customer record management
-- Added search, update, and delete features
-- Used vectors and file handling for storage
+### 👩‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
-## Currently Learning
-- Advanced Generative AI
-- AI Agents
-- LLM-based applications
+### 🧠 Core Concepts
+- OOP  
+- Data Structures & Algorithms  
+- DBMS  
+- Simulation & Modeling  
 
-## Connect With Me
-- Email: aminah.ansar161@gmail.com
-- LinkedIn: linkedin.com/in/amina-ansar-30423328a
-- GitHub: github.com/Amina824
+### 🤖 AI & Tools
+<p>
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Projects
+
+### 🧠 Society Registration System Simulation
+- 📊 Analysed data from **1000+ students**
+- ⚡ Reduced process time from **20 min → 1 min**
+- 🤖 Proposed AI-based improvements using AnyLogic  
+
+### 💳 Bank Management System
+- Built using **C++ & OOP**
+- Implemented **CRUD operations**
+- Used **file handling & modular design**
+
+### 🐾 Pet Management System
+- Developed using **C++**
+- Features: search, update, delete
+- Used **vectors & file storage**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amina824&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amina824&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+- 🔥 Advanced Generative AI  
+- 🤖 AI Agents  
+- 🧠 LLM-based Applications  
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  📧 Email: <a href="mailto:aminah.ansar161@gmail.com">aminah.ansar161@gmail.com</a><br>
+  💼 LinkedIn: <a href="https://linkedin.com/in/amina-ansar-30423328a">amina-ansar</a><br>
+  🌐 GitHub: <a href="https://github.com/Amina824">Amina824</a>
+</p>
+
+---
+
+<p align="center">⭐ <i>“Building intelligent systems that solve real-world problems”</i></p>
