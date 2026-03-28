@@ -1,87 +1,67 @@
+<h1 align="center">Amina Bibi</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Generative+AI+Enthusiast;Building+Intelligent+Systems&center=true&width=500&height=50">
+  Software Engineer | Generative AI | Intelligent Systems
 </p>
-
-<h1 align="center">Hi 👋, I'm Amina Bibi</h1>
-<h3 align="center">💻 Software Engineering Student | 🤖 Generative AI Enthusiast</h3>
-
----
-
-## 🚀 About Me
-- 🎓 Software Engineering student at **University of Gujrat**
-- 🤖 Passionate about **Generative AI, AI Agents & Machine Learning**
-- 💡 Love building **intelligent systems & real-world solutions**
-- 🔍 Currently exploring **LangChain, MCP & LLM-based applications**
-
----
-
-## 🛠️ Tech Stack
-
-### 👩‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
-### 🧠 Core Concepts
-- OOP  
-- Data Structures & Algorithms  
-- DBMS  
-- Simulation & Modeling  
-
-### 🤖 AI & Tools
-<p>
-  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📌 Projects
-
-### 🧠 Society Registration System Simulation
-- 📊 Analysed data from **1000+ students**
-- ⚡ Reduced process time from **20 min → 1 min**
-- 🤖 Proposed AI-based improvements using AnyLogic  
-
-### 💳 Bank Management System
-- Built using **C++ & OOP**
-- Implemented **CRUD operations**
-- Used **file handling & modular design**
-
-### 🐾 Pet Management System
-- Developed using **C++**
-- Features: search, update, delete
-- Used **vectors & file storage**
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amina824&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amina824&theme=tokyonight" height="160"/>
+  <a href="mailto:aminah.ansar161@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/amina-ansar-30423328a">LinkedIn</a> •
+  <a href="https://github.com/Amina824">GitHub</a>
 </p>
 
 ---
 
-## 🌱 Currently Learning
-- 🔥 Advanced Generative AI  
-- 🤖 AI Agents  
-- 🧠 LLM-based Applications  
+## Professional Summary
+
+I am a Software Engineering undergraduate focused on building practical software systems and AI-driven applications. My interests lie at the intersection of software engineering, automation, and intelligent systems, with current work centered on Generative AI, AI agents, and LLM-based applications.
+
+I enjoy solving real-world problems through clean design, structured development, and measurable improvements in system efficiency.
 
 ---
 
-## 🤝 Connect With Me
+## Technical Skills
 
-<p>
-  📧 Email: <a href="mailto:aminah.ansar161@gmail.com">aminah.ansar161@gmail.com</a><br>
-  💼 LinkedIn: <a href="https://linkedin.com/in/amina-ansar-30423328a">amina-ansar</a><br>
-  🌐 GitHub: <a href="https://github.com/Amina824">Amina824</a>
-</p>
+**Languages:** Python, C++, Java  
+**Core Skills:** Object-Oriented Programming, Data Structures & Algorithms, DBMS, Simulation & Modeling  
+**Tools & Technologies:** Git, GitHub, LangChain  
+**Areas of Interest:** Generative AI, AI Agents, Machine Learning, LLM Applications  
 
 ---
 
-<p align="center">⭐ <i>“Building intelligent systems that solve real-world problems”</i></p>
+## Featured Projects
+
+### Society Registration System Simulation
+- Simulated and analyzed a student registration workflow using data from 1,000+ students.
+- Identified process bottlenecks and designed an improved workflow in AnyLogic.
+- Proposed automation and AI-assisted improvements that reduced estimated processing time from 20 minutes to 1 minute.
+
+### Bank Management System
+- Built a C++ application for managing core banking operations.
+- Implemented CRUD functionality using file handling and modular object-oriented design.
+- Focused on maintainable code structure, data accuracy, and clear system logic.
+
+### Pet Management System
+- Developed a C++ application for managing pet records.
+- Implemented search, update, and delete functionality using vectors and file-based storage.
+- Strengthened practical experience in data handling and application design.
+
+---
+
+## Current Focus
+
+- Generative AI and AI agent systems
+- LangChain and MCP-based applications
+- LLM-powered workflow automation
+
+---
+
+## Education
+
+**University of Gujrat**  
+Software Engineering
+
+---
+
+## Opportunities
+
+I am currently open to entry-level opportunities in software engineering, AI, and intelligent systems development.
