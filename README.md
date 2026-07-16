@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Generative+AI+Developer;RAG+%7C+AI+Agents+%7C+LLM+Applications;Building+Scalable+Intelligent+Systems&center=true&width=750&height=50">
+  <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer;Generative+AI+Developer;RAG+%7C+AI+Agents+%7C+LLM+Applications;Building+Scalable+Intelligent+Systems&center=true&width=750&height=50">
 </p>
 
 <h1 align="center">Hi 👋, I'm Amina Bibi</h1>
@@ -170,7 +170,7 @@ I am currently focused on improving my skills in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amina824&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amina824&theme=tokyonight" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Amina824&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
