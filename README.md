@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Generative+AI+Developer;RAG+%7C+AI+Agents+%7C+LLM+Applications;Building+Scalable+Intelligent+Systems&center=true&width=750&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Generative+AI+Developer;RAG+%7C+AI+Agents+%7C+LLM+Applications;Building+Scalable+Intelligent+Systems&center=true&width=750&height=50">
 </p>
 
 <h1 align="center">Hi 👋, I'm Amina Bibi</h1>
 
 <h3 align="center">
-Software Engineering Student | Generative AI | RAG Systems | AI Agents | Backend Development
+Software Engineer| Generative AI | RAG Systems | AI Agents | Backend Development
 </h3>
 
 <p align="center">
@@ -24,16 +24,14 @@ Software Engineering Student | Generative AI | RAG Systems | AI Agents | Backend
 
 ## 👩‍💻 About Me
 
-I am a **Software Engineering student at the University of Gujrat** with a strong interest in **Generative AI, RAG systems, AI agents, backend development, and intelligent software systems**.
+I am a **Software Engineer** with a strong interest in **Generative AI, RAG systems, AI agents, backend development, and intelligent software systems**.
 
 I enjoy building practical applications that combine software engineering principles with modern AI technologies. My work focuses on creating systems that are useful, scalable, and easy for real users to interact with.
 
-- 🎓 BS Software Engineering — **University of Gujrat**
 - 🤖 Interested in **Generative AI, RAG, AI Agents, LLM Applications, and Automation**
 - ⚙️ Experienced in building **AI-powered applications, conversational chatbots, REST APIs, and simulation-based systems**
 - 🧠 Strong foundation in **OOP, Data Structures, Algorithms, DBMS, and Software Architecture**
-- 🌱 Currently working on an **AI-driven Granular Energy Certificate Management System**
-- 🎯 Seeking opportunities in **AI Engineering, Generative AI Development, Backend Development, or Software Engineering**
+- 🌱 Currently working on an **ARAG based Systems**
 
 ---
 
@@ -43,7 +41,7 @@ I enjoy building practical applications that combine software engineering princi
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
@@ -60,7 +58,7 @@ I enjoy building practical applications that combine software engineering princi
 ### ⚙️ Backend, APIs & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAST%20APIs-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DBMS-374151?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Software%20Architecture-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/File%20Handling-4B5563?style=for-the-badge"/>
@@ -71,7 +69,6 @@ I enjoy building practical applications that combine software engineering princi
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AnyLogic-1F2937?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MCP-4B5563?style=for-the-badge"/>
 </p>
 
@@ -79,15 +76,14 @@ I enjoy building practical applications that combine software engineering princi
 
 ## 🧠 Core Competencies
 
+- RAG-Based Chatbots
+- Generative AI Applications
+- AI Agent Workflows
+- FastAPI
 - Object-Oriented Programming  
 - Data Structures & Algorithms  
-- Database Management Systems  
-- REST API Development  
+- Database Management Systems   
 - Software Architecture  
-- Generative AI Applications  
-- RAG-Based Chatbots  
-- AI Agent Workflows  
-- Simulation & Process Engineering  
 - Problem Solving and Team Collaboration  
 
 ---
