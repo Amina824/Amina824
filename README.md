@@ -168,9 +168,24 @@ I am currently focused on improving my skills in:
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amina824&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Amina824&theme=tokyonight&v=1" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Amina824&show_icons=true&theme=tokyonight"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Amina824&theme=tokyonight"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amina824&layout=compact&theme=tokyonight"
+    height="165"
+  />
 </p>
 
 ---
