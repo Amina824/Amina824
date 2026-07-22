@@ -31,7 +31,7 @@ I enjoy building practical applications that combine software engineering princi
 - 🤖 Interested in **Generative AI, RAG, AI Agents, LLM Applications, and Automation**
 - ⚙️ Experienced in building **AI-powered applications, conversational chatbots, REST APIs, and simulation-based systems**
 - 🧠 Strong foundation in **OOP, Data Structures, Algorithms, DBMS, and Software Architecture**
-- 🌱 Currently working on an **ARAG based Systems**
+- 🌱 Currently working on an **RAG based Systems**
 
 ---
 
